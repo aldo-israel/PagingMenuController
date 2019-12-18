@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "ECE530661B6DEB18001CF201"
-               BuildableName = "PagingMenuController.framework"
-               BlueprintName = "PagingMenuController"
-               ReferencedContainer = "container:PagingMenuController.xcodeproj">
+               BuildableName = "SupahPagingMenu.framework"
+               BlueprintName = "SupahPagingMenu"
+               ReferencedContainer = "container:SupahPagingMenu.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -31,7 +31,7 @@
                BlueprintIdentifier = "ECE530711B6DEB18001CF201"
                BuildableName = "PagingMenuControllerTests.xctest"
                BlueprintName = "PagingMenuControllerTests"
-               ReferencedContainer = "container:PagingMenuController.xcodeproj">
+               ReferencedContainer = "container:SupahPagingMenu.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "ECE530661B6DEB18001CF201"
-            BuildableName = "PagingMenuController.framework"
-            BlueprintName = "PagingMenuController"
-            ReferencedContainer = "container:PagingMenuController.xcodeproj">
+            BuildableName = "SupahPagingMenu.framework"
+            BlueprintName = "SupahPagingMenu"
+            ReferencedContainer = "container:SupahPagingMenu.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -58,7 +58,7 @@
                BlueprintIdentifier = "ECE530711B6DEB18001CF201"
                BuildableName = "PagingMenuControllerTests.xctest"
                BlueprintName = "PagingMenuControllerTests"
-               ReferencedContainer = "container:PagingMenuController.xcodeproj">
+               ReferencedContainer = "container:SupahPagingMenu.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -77,9 +77,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "ECE530661B6DEB18001CF201"
-            BuildableName = "PagingMenuController.framework"
-            BlueprintName = "PagingMenuController"
-            ReferencedContainer = "container:PagingMenuController.xcodeproj">
+            BuildableName = "SupahPagingMenu.framework"
+            BlueprintName = "SupahPagingMenu"
+            ReferencedContainer = "container:SupahPagingMenu.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </LaunchAction>
@@ -93,9 +93,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "ECE530661B6DEB18001CF201"
-            BuildableName = "PagingMenuController.framework"
-            BlueprintName = "PagingMenuController"
-            ReferencedContainer = "container:PagingMenuController.xcodeproj">
+            BuildableName = "SupahPagingMenu.framework"
+            BlueprintName = "SupahPagingMenu"
+            ReferencedContainer = "container:SupahPagingMenu.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

@@ -8,9 +8,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = "PagingMenuController-iOS"
+  s.name             = "SupahPagingMenu"
   s.version          = "3.0.0"
-  s.summary          = "A paging view with customizable menu"
+  s.summary          = "A paging view with customizable menu - fork from kitasuke to support Swift 5"
   s.homepage         = "https://github.com/aldo-israel/PagingMenuController"
   s.license          = 'MIT'
   s.author           = { "aldo-israel" => "aldo@dexa.xyz" }
